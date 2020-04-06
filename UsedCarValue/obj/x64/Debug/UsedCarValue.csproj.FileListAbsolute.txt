@@ -1,0 +1,11 @@
+C:\Users\kerry\Source\Repos\UsedCarValue\UsedCarValue\bin\x64\Debug\UsedCarValue.exe.config
+C:\Users\kerry\Source\Repos\UsedCarValue\UsedCarValue\bin\x64\Debug\UsedCarValue.exe
+C:\Users\kerry\Source\Repos\UsedCarValue\UsedCarValue\bin\x64\Debug\UsedCarValue.pdb
+C:\Users\kerry\Source\Repos\UsedCarValue\UsedCarValue\bin\x64\Debug\nunit.framework.dll
+C:\Users\kerry\Source\Repos\UsedCarValue\UsedCarValue\bin\x64\Debug\nunit.framework.pdb
+C:\Users\kerry\Source\Repos\UsedCarValue\UsedCarValue\bin\x64\Debug\nunit.framework.xml
+C:\Users\kerry\Source\Repos\UsedCarValue\UsedCarValue\obj\x64\Debug\UsedCarValue.csprojAssemblyReference.cache
+C:\Users\kerry\Source\Repos\UsedCarValue\UsedCarValue\obj\x64\Debug\UsedCarValue.csproj.CoreCompileInputs.cache
+C:\Users\kerry\Source\Repos\UsedCarValue\UsedCarValue\obj\x64\Debug\UsedCarValue.csproj.CopyComplete
+C:\Users\kerry\Source\Repos\UsedCarValue\UsedCarValue\obj\x64\Debug\UsedCarValue.exe
+C:\Users\kerry\Source\Repos\UsedCarValue\UsedCarValue\obj\x64\Debug\UsedCarValue.pdb
